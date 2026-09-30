@@ -1,0 +1,11 @@
+KisanMitra_AI/
+├── app.py
+├── ai_model.py
+├── requirements.txt
+├── database_schema.sql
+├── .gitignore
+├── templates/
+│   └── index.html
+└── static/
+    ├── style.css
+    └── app.js
